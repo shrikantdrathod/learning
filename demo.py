@@ -3,6 +3,6 @@ def forloop(list):
         if item%2==0:
             print(item)
 
-print('welcome aelians..')
+print('welcome aelians..shreeeeee')
 
 forloop([1,2,3,4,5,65,34,76,87,90,12,32,8,9,10])
